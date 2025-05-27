@@ -9,5 +9,5 @@ Sam musiałem zaprojektować kwestonariusz, oczyścić dane oraz przeprowdzić a
    
 ![Macierz korelacji pamiędzy istotnymi zmiennymi które zostały sprawdzone w badaniu](wyniki.png)
 
-Należy patrzeć na różnicę w korelacji pomiędzy f1_sen oraz f3_sen oraz f2_głód
-p-value tej różnicy: **0.013**
+Należy patrzeć na różnicę w korelacji pomiędzy f1_sen oraz f3_sen oraz f2_głód (p-value tej różnicy: **0.013**).
+Macież przedstawia także korelacje pomiędzy deklarowanym zaburzeniem snu oraz zbadanym poziomem greliny. Nie należy tak mocno sugerować się tymi wynikami, gdyż były to tylko deklaracje (należałoby skostruwać pytania, które rzetelnie badałyby poziom każdego z tych zaburzeń).
