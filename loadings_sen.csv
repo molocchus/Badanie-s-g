@@ -1,0 +1,22 @@
+,Factor_1,Factor_2,Factor_3
+Czy masz trudności z utrzymaniem regularnego rytmu snu?,0.9024585041388704,0.20620249277051003,0.02662820691687709
+"Czy często budzisz się zmęczony/-a, mimo że spałeś/-aś wystarczająco długo?",0.9085986143715803,0.13875020205598454,0.025455404228581776
+Czy to jak śpisz znacząco wpływa na twoje obowiązki w pracy lub szkole?,0.8793766935027819,-0.15299336309572978,-0.04508718714148803
+"Ile godzin potrzebujesz, aby się wyspać?_6-9",-0.6567211800623612,0.05354423774114383,0.3230987743939989
+Dlaczego chodzisz spać o takich godzinach?_Nie udaje mi się utrzymywać regularnego cyklu dobowego,0.7853720782029864,-0.33152730669411745,0.06405467310390547
+Dlaczego chodzisz spać o takich godzinach?_To dla mnie naturalne,-0.49886446243216687,-0.21709800500043389,-0.11656047796367267
+Odpowiedz na podstawie powyższego obrazka.  Który z rytmów wskazanych na obrazku poniżej najbardziej odpowiada twojemu?_Prawidłowy,-0.8470808386841433,-0.4068724594666136,-0.030257649705511827
+Odpowiedz na podstawie powyższego obrazka.  Który z rytmów wskazanych na obrazku poniżej najbardziej odpowiada twojemu?_Przyspieszenie fazy,-0.026247463533113052,0.7320749245443824,-0.3734103171855979
+Odpowiedz na podstawie powyższego obrazka.  Który z rytmów wskazanych na obrazku poniżej najbardziej odpowiada twojemu?_Rytm nieregularny,0.6795701401280626,0.2865306928539714,0.567768890428411
+"Czy miewasz trudności z zaśnięciem mimo zmęczenia?_Tak, czasem pomimo dużego zmęczenia i tak nie mogę zasnąć",0.6556087901036252,-0.21226742666842155,0.06076273960519804
+"Czy budzisz się w nocy i masz problem z ponownym zaśnięciem?_Zdarza mi się obudzić po około 3h snu, po czym idę spać na ponad 5h w ciągu dnia",0.12050176643276195,0.6087875074864525,0.4290852065007915
+Ile zwykle zajmuje Ci zasypianie?_1h do 2h,-0.03653506380150922,0.385933731106038,-0.08539920142453533
+Ile zwykle zajmuje Ci zasypianie?_Za każdym razem jest inaczej,0.7325573953249054,0.02634656061852203,0.19754039391626013
+Ile zwykle zajmuje Ci zasypianie?_od 5 do 15 min,-0.7752682929116409,-0.03982115710351626,-0.03721515885150009
+"W jakim stopniu nie wysypiasz się przez swoje obowiązki?_Śpię 3h albo wcale przez, to że muszę wcześniej wstać (nie są to niestandardowe godziny po prostu późno idę spać)",0.7262096029510333,-0.3389595812972858,-0.31502421558644195
+W jakim stopniu nie wysypiasz się przez swoje obowiązki?_Śpię wystarczająco,-0.6001439523531642,0.09790815225376262,0.4707949260879266
+"Czy często śpisz w nietypowych godzinach (np. w ciągu dnia, w różnych porach nocy)_Śpię różnie ze względu na obowiązki",0.7873797117947977,-0.0445073733397043,0.03689012641949963
+"Czy często śpisz w nietypowych godzinach (np. w ciągu dnia, w różnych porach nocy)_Śpię w dzień",-0.14621600485696454,0.867519782309825,-0.17925030820145904
+"Czy często śpisz w nietypowych godzinach (np. w ciągu dnia, w różnych porach nocy)_Śpię w nocy",-0.8188602745474962,-0.33508200100088126,0.008905779337110122
+"Czy zażywasz środki nasenne?_Kiedyś tak, już nie",-0.06123003704615111,0.92787368464366,-0.25776495565283986
+"Czy zdiagnozowano u Ciebie zaburzenia snu i czy terapia przynosi oczekiwane efekty?_Jestem zdiagnozowany, jednak leczenie nie przynosi efektów",0.6276873813366063,-0.370447033769072,-0.23197565506156015
