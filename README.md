@@ -9,4 +9,5 @@ Sam musiałem zaprojektować kwestonariusz, oczyścić dane oraz przeprowdzić a
    
 ![Macierz korelacji pamiędzy istotnymi zmiennymi które zostały sprawdzone w badaniu](wyniki.png)
 
+Należy patrzeć na różnicę w korelacji pomiędzy f1_sen oraz f3_sen oraz f2_głód
 p-value tej różnicy: **0.013**
